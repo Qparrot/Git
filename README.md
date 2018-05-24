@@ -1,6 +1,6 @@
------- Updage zshrc -------
+***------ Updage zshrc -------***
 
-1. github-create
+__1. github-create__
 
 	allow to create a git repository without sign in github.com
 	
